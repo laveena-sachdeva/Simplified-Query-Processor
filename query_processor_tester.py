@@ -1,7 +1,7 @@
 #!/usr/bin/python2.7
 
 
-import database_partitioning as database_partitioning
+import load_data as database_partitioning
 import query_processor as query_processor
 if __name__ == '__main__':
     try:
